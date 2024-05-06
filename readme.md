@@ -9,3 +9,5 @@ DC226319 TAN HONGYE - CISC3003 Web Programming - Individual project
 7. 刷新网站即可
 *** 若想进入管理者模式, 更改url, 使其指向".../admin/"即可 ***
 *** 在管理者模式下, 若不小心log out了账号, 则需要将数据库中的tbl_admin中任一条目的password那一列复制, 去浏览器搜索MD5解码, 粘贴进去解码即可获得对应username的密码 ***
+
+Github links: https://github.com/Ted-cuchuan/CISC3003-ProjectAssignment-Part02-Individual
